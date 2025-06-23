@@ -5,24 +5,31 @@ This repository contains solutions to the Week 1 JavaScript coding challenges. E
 ## 📁 Project Structure
 
 Code-Challenge-1/
-├── README.md
 ├── chaiCalculator/
-│ ├── chai.js
+│ └── chai.js
 ├── bodaFareCalculator/
-│ ├── fare.js
+│ └── fare.js
 ├── mobileMoneyEstimator/
-  ├── fee.js
- 
-
+│ └── fee.js
+├── README.md
+└── LICENSE
 
 
 ---
 ## Getting Started
 
-If you haven't already, fork and clone this lab into your local environment.
-Remember to **fork** a copy into your GitHub account first, then **clone** from
-that copy. Navigate into its directory in the terminal, then run `code .` to
-open the files in Visual Studio Code.
+
+1. Clone this repository:
+```bash
+git clone https://github.com/BRian-210/Code-Challenge-1.git
+cd Code-Challenge-1
+ create folders (e.g chaiCalculator,bodaFareCalculator,mobileMoneyEstimator) using 'mkdir' "folderName".
+ In each folder create the javascript file (e.g chai.js,fare.js,fee.js) using 'touch' "fileName".
+ Then run `code .` to open the files in Visual Studio Code
+ 
+##Note: If using prompt(), make sure to run in a browser environment
+
+---
 
 ## ✅ Challenges
 
