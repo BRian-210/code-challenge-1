@@ -68,3 +68,18 @@ Example:
 Sending KES 2000:
 Calculated Transaction Fee: KES 30
 Total amount to be debited: KES 2030
+
+---
+
+## ✍️ Author
+
+**BRIAN GITHINJI**  
+GitHub: [@BRian-210](https://github.com/BRian-210)  
+Email: briangithinji.dev@gmail.com
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with proper attribution.
