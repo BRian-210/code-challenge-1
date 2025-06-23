@@ -18,15 +18,16 @@ Code-Challenge-1/
 ---
 ## Getting Started
 
+1.Go to Github,create a new repository named 'code-challenge-1'.
 
-1. Clone this repository:
+2. Clone this repository:
 ```bash
 git clone https://github.com/BRian-210/Code-Challenge-1.git
 cd Code-Challenge-1
  create folders (e.g chaiCalculator,bodaFareCalculator,mobileMoneyEstimator) using 'mkdir' "folderName".
  In each folder create the javascript file (e.g chai.js,fare.js,fee.js) using 'touch' "fileName".
  Then run `code .` to open the files in Visual Studio Code
- 
+
 ##Note: If using prompt(), make sure to run in a browser environment
 
 ---
