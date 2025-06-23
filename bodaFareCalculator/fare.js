@@ -1,4 +1,4 @@
-function calculateBodaFare (distanceInKm) {
+function calculateBodaFare(distanceInKm) {
     // Fare details
     const baseFare = 50;
     //kes
@@ -6,21 +6,22 @@ function calculateBodaFare (distanceInKm) {
     //kes
 
     // Fare Calculation
-    const totalFare = baseFare + distanceCharge;
     const distanceCharge = distanceInKm * chargePerKm;
+    const totalFare = baseFare + distanceCharge;
 
-    // Prompts user for distance
-    const input = prompt("Unafika wapi Mkubwa? Kilometer ngapi?:");
-    const distanceInKm = Number(input);
-
-
-     // Output
-  console.log(`Uko kwote? Io ni ${distanceInKm} km:`);
-  console.log(`Ukikalia Pikipiki: KES ${baseFare}`);
-  console.log(`Mpaka Uko: KES ${distanceCharge}`);
-  console.log(`Total: KES ${totalFare}\n`);
+  
+    // Output
+    console.log(`Your destination is ${distanceInKm} km away:`);
+    console.log(`Base Fare: KES ${baseFare}`);
+    console.log(`Distance Charge: KES ${distanceCharge}`);
+    console.log(`Total: KES ${totalFare}\n`);
+    console.log("Enjoy your ride!");
   console.log("Panda Pikipiki!");
 
 }
+// Prompt user for distance
+const input = prompt("Unafika wapi Mkubwa? Kilometer ngapi?:");
+const distanceInKm = Number(input);
+
 // Call the function
 calculateBodaFare();
