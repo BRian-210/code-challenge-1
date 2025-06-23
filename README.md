@@ -8,14 +8,12 @@ Code-Challenge-1/
 ├── README.md
 ├── chaiCalculator/
 │ ├── chai.js
-│ └── chai.test.js
 ├── bodaFareCalculator/
 │ ├── fare.js
-│ └── fare.test.js
 ├── mobileMoneyEstimator/
-│ ├── fee.js
-│ └── fee.test.js
-└── package.json
+  ├── fee.js
+ 
+
 
 
 ---
