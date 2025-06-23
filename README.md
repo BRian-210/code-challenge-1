@@ -71,11 +71,12 @@ Total amount to be debited: KES 2030
 
 ---
 
+
 ## ✍️ Author
 
 **BRIAN GITHINJI**  
 GitHub: [@BRian-210](https://github.com/BRian-210)  
-Email: briangithinji.dev@gmail.com
+Email: briangithinji3@student.moringaschool.com
 
 ---
 
@@ -83,3 +84,4 @@ Email: briangithinji.dev@gmail.com
 
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute it with proper attribution.
+
