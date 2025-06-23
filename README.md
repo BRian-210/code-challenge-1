@@ -1,4 +1,4 @@
-# code-challenge-1# code-challenge-1 
+# code-challenge-1 
 
 This repository contains solutions to the Week 1 JavaScript coding challenges. Each challenge is located in its own folder with properly structured code and test cases.
 
